@@ -64,7 +64,9 @@ float VendingMachine::purchaseSoda (float paid){
 	}
 }
 
+//some tests to make sure it's working properly. They all did
 int main(){
+	/*
 	VendingMachine vender;
 	cout << vender.getInventoryCount() << endl;
 	cout << vender.purchaseSoda(2.40) << endl;
@@ -73,6 +75,7 @@ int main(){
 	cout << vender.getInventoryCount() << endl;
 	vender.refill();	
 	cout << vender.getInventoryCount() << endl;
+	*/
 	return 0;
 }
 
